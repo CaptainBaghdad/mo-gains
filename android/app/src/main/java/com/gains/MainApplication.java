@@ -1,4 +1,5 @@
 package com.gains;
+import com.facebook.react.BuildConfig;
 
 import android.app.Application;
 

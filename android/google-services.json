@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "59964645322",
+    "firebase_url": "https://gains-5c877.firebaseio.com",
+    "project_id": "gains-5c877",
+    "storage_bucket": "gains-5c877.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59964645322:android:7e6e607ff3e63770",
+        "android_client_info": {
+          "package_name": "com.gains.jacked"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59964645322-u0jm9277rs3eb2vrvv5d60kojr5159hu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4EboQOBUykqVXt3naiYuPtGJn-Kc1NUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59964645322-u0jm9277rs3eb2vrvv5d60kojr5159hu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
